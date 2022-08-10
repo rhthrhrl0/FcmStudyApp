@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FcmStudyApp</string>
+    <string name="default_notification_channel_id">default_channel</string>
+    <string name="msg_token_fmt" formatted="false">토큰: %s</string>
+</resources>
